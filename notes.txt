@@ -1,0 +1,2 @@
+templates folder name should be templates only 
+should not use any other folder to load the html pages 
